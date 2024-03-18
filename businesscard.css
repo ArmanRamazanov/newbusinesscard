@@ -1,0 +1,29 @@
+.card{
+    display:flex;
+    margin: 50px auto;
+    border-bottom: 10px solid #76ABAE;
+    border-radius: 10px;
+
+    padding:30px;
+    height: 200px;
+    background-color:darkseagreen;
+    justify-content:space-around;
+    width:600px;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.text{
+    font-size: 18px;
+}
+.myimg{
+    margin-left:30px;
+    width: 170px;
+    height: 200px;
+}
+.maintext{
+    font-size:30px;
+}
+.information{
+    color:#2b2839;
+}
